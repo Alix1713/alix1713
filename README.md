@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently a student taking a full stack web development course at UC Berkley extension program. This github shows the progression of my work as I advance through the program. 
 <!--
 **Alix1713/alix1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

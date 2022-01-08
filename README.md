@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a student taking a full stack web development course at UC Berkley extension program. This github shows the progression of my work as I advance through the program. 
+I am a student that just graduated from a full stack web development course at UC Berkley extension program. This github shows the progression of my work as I advanced through the program from September 2021 to December 2021. Currently in January 2022 I have signed up for a course in React w/ Redux, Hooks, and GraphQL through Udemy to continue learning as I apply for my first tech job or internship. 
 
 You can view my updated portfolio at https://alix1713.github.io/alix/
 <!--

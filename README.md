@@ -3,8 +3,8 @@ I am a student that just graduated from a full stack web development course at U
 
 You can view my updated portfolio at https://alix1713.github.io/alix/
 ### About Me: 
-- 🔭 I’m currently working on my portfolio and applying for work as a junior developer.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working at InfoSys
+- 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/alix1713/)
 - 😄 Pronouns: She/Her

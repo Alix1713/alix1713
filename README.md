@@ -1,9 +1,11 @@
 ### Hi there 👋
-I am a student that just graduated from a full stack web development course at UC Berkley extension program. This github shows the progression of my work as I advanced through the program from September 2021 to December 2021. Currently in January 2022 I have signed up for a course in React w/ Redux, Hooks, and GraphQL through Udemy to continue learning as I apply for my first tech job or internship. 
+I graduated from a full stack web development course at UC Berkley extension program. This github shows the progression of my work as I advanced through the program from September 2021 to December 2021. 
+After the UC Berkeley program I took courses online in React w/ Redux, Hooks, and GraphQL through Udemy to continue learning.
+Since joining InfoSys in March 2022 I have learned Python, C# and .net services for different projects.
+Currently I am working on a Google Project through InfoSys. 
 
-You can view my updated portfolio at https://alix1713.github.io/Alix/
 ### About Me: 
-- 🔭 I’m currently working at InfoSys on a Google Project
+- 🔭 I’m currently working at InfoSys.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/alix1713/)
 - 😄 Pronouns: She/Her
